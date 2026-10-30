@@ -1,0 +1,140 @@
+﻿body {
+    background-image: url('/img/FondoInicio.png');
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    min-height: 100vh;
+}
+
+.login-container {
+    min-height: calc(100vh - 80px);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding: 30px 15px;
+}
+
+.login-card {
+    width: 100%;
+    max-width: 450px;
+    background-color: rgba(147, 112, 219, 0.3);
+    border-radius: 20px;
+    padding: 40px;
+    backdrop-filter: blur(10px);
+    -webkit-backdrop-filter: blur(10px);
+    border: 1px solid rgba(255, 255, 255, 0.2);
+    box-shadow: 0 8px 32px rgba(0, 0, 0, 0.35);
+}
+
+.login-title {
+    color: black;
+    font-size: 2.5em;
+    font-weight: bold;
+    text-align: center;
+    margin-bottom: 10px;
+}
+
+.login-subtitle {
+    color:black;
+    text-align: center;
+    margin-bottom: 30px;
+}
+
+.login-form label {
+    color: black;
+    font-weight: bold;
+    margin-bottom: 8px;
+}
+
+.login-form input {
+    width: 100%;
+    border-radius: 10px;
+    border: 1px solid rgba(255, 255, 255, 0.4);
+    padding: 12px 15px;
+    background-color: rgba(255, 255, 255, 0.9);
+    transition: all 0.3s ease;
+}
+
+    .login-form input:focus {
+        outline: none;
+        border-color: rgb(242, 64, 93);
+        box-shadow: 0 0 0 0.2rem rgba(242, 64, 93, 0.25);
+    }
+
+.btn-login {
+    width: 100%;
+    background-color: rgb(242, 64, 93);
+    border: none;
+    color: black;
+    padding: 12px 25px;
+    border-radius: 25px;
+    font-weight: bold;
+    font-size: 1.05em;
+    transition: all 0.3s ease;
+    margin-top: 10px;
+}
+
+    .btn-login:hover {
+        background-color: rgb(255, 127, 127);
+        transform: translateY(-2px);
+        box-shadow: 0 5px 15px rgba(242, 64, 93, 0.4);
+    }
+
+.login-error {
+    background-color: rgba(220, 53, 69, 0.2);
+    border: 1px solid rgba(255, 100, 100, 0.5);
+    color: black;
+    border-radius: 10px;
+    padding: 10px 15px;
+    margin-bottom: 20px;
+    text-align: center;
+}
+
+/*estilo boton registrar*/
+.btn-register {
+    background-color: transparent;
+    border: 2px solid rgb(242, 64, 93);
+    color: black;
+    margin-top: 12px;
+}
+
+    .btn-register:hover {
+        background-color: rgba(242, 64, 93, 0.15);
+        transform: translateY(-2px);
+    }
+
+/*estilo registrar form*/
+.login-form select {
+    display: block;
+    width: 100%;
+    border-radius: 10px;
+    border: 1px solid rgba(255, 255, 255, 0.4);
+    padding: 12px 15px;
+    background-color: rgba(255, 255, 255, 0.9);
+    transition: all 0.3s ease;
+    box-sizing: border-box;
+    color: black;
+    font-family: inherit;
+    font-size: 1em;
+    margin-top: 8px;
+    appearance: none;
+    -webkit-appearance: none;
+    -moz-appearance: none;
+    background-image: url("data:image/svg+xml;charset=UTF-8,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 24 24' fill='none' stroke='%23333' stroke-width='2'%3E%3Cpolyline points='6 9 12 15 18 9'%3E%3C/polyline%3E%3C/svg%3E");
+    background-repeat: no-repeat;
+    background-position: right 15px center;
+    background-size: 16px;
+}
+
+    .login-form select:focus {
+        outline: none;
+        border-color: rgb(242, 64, 93);
+        box-shadow: 0 0 0 0.2rem rgba(242, 64, 93, 0.25);
+    }
+
+.login-form label {
+    display: block;
+    color: black;
+    font-weight: bold;
+    margin-bottom: 8px;
+}

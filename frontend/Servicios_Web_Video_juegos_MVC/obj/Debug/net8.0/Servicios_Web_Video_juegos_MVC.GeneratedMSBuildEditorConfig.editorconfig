@@ -1,0 +1,112 @@
+is_global = true
+build_property.TargetFramework = net8.0
+build_property.TargetFrameworkIdentifier = .NETCoreApp
+build_property.TargetFrameworkVersion = v8.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property.EntryPointFilePath = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = Servicios_Web_Video_juegos_MVC
+build_property.RootNamespace = Servicios_Web_Video_juegos_MVC
+build_property.ProjectDir = F:\Desarrollo de servicios web 1\proyecto\Servicios_Web_Video_juegos_MVC\Servicios_Web_Video_juegos_MVC\
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 
+build_property.RazorLangVersion = 8.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = F:\Desarrollo de servicios web 1\proyecto\Servicios_Web_Video_juegos_MVC\Servicios_Web_Video_juegos_MVC
+build_property._RazorSourceGeneratorDebug = 
+build_property.EffectiveAnalysisLevelStyle = 8.0
+build_property.EnableCodeStyleSeverity = 
+
+[F:/Desarrollo de servicios web 1/proyecto/Servicios_Web_Video_juegos_MVC/Servicios_Web_Video_juegos_MVC/Views/Admin/ListaUsuarios.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5cTGlzdGFVc3Vhcmlvcy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[F:/Desarrollo de servicios web 1/proyecto/Servicios_Web_Video_juegos_MVC/Servicios_Web_Video_juegos_MVC/Views/Admin/ModificarUsuario.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5cTW9kaWZpY2FyVXN1YXJpby5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[F:/Desarrollo de servicios web 1/proyecto/Servicios_Web_Video_juegos_MVC/Servicios_Web_Video_juegos_MVC/Views/Admin/RegistrarUsuario.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5cUmVnaXN0cmFyVXN1YXJpby5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[F:/Desarrollo de servicios web 1/proyecto/Servicios_Web_Video_juegos_MVC/Servicios_Web_Video_juegos_MVC/Views/Carrito/VerCarrito.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2Fycml0b1xWZXJDYXJyaXRvLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[F:/Desarrollo de servicios web 1/proyecto/Servicios_Web_Video_juegos_MVC/Servicios_Web_Video_juegos_MVC/Views/Home/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[F:/Desarrollo de servicios web 1/proyecto/Servicios_Web_Video_juegos_MVC/Servicios_Web_Video_juegos_MVC/Views/Home/Privacy.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[F:/Desarrollo de servicios web 1/proyecto/Servicios_Web_Video_juegos_MVC/Servicios_Web_Video_juegos_MVC/Views/Login/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTG9naW5cSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[F:/Desarrollo de servicios web 1/proyecto/Servicios_Web_Video_juegos_MVC/Servicios_Web_Video_juegos_MVC/Views/Producto/contactanos.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvZHVjdG9cY29udGFjdGFub3MuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[F:/Desarrollo de servicios web 1/proyecto/Servicios_Web_Video_juegos_MVC/Servicios_Web_Video_juegos_MVC/Views/Producto/detalles_juego.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvZHVjdG9cZGV0YWxsZXNfanVlZ28uY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[F:/Desarrollo de servicios web 1/proyecto/Servicios_Web_Video_juegos_MVC/Servicios_Web_Video_juegos_MVC/Views/Producto/inicio.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvZHVjdG9caW5pY2lvLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[F:/Desarrollo de servicios web 1/proyecto/Servicios_Web_Video_juegos_MVC/Servicios_Web_Video_juegos_MVC/Views/Producto/juegos.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvZHVjdG9canVlZ29zLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[F:/Desarrollo de servicios web 1/proyecto/Servicios_Web_Video_juegos_MVC/Servicios_Web_Video_juegos_MVC/Views/Producto/nosotros.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvZHVjdG9cbm9zb3Ryb3MuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[F:/Desarrollo de servicios web 1/proyecto/Servicios_Web_Video_juegos_MVC/Servicios_Web_Video_juegos_MVC/Views/Registrarse/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUmVnaXN0cmFyc2VcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[F:/Desarrollo de servicios web 1/proyecto/Servicios_Web_Video_juegos_MVC/Servicios_Web_Video_juegos_MVC/Views/Shared/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[F:/Desarrollo de servicios web 1/proyecto/Servicios_Web_Video_juegos_MVC/Servicios_Web_Video_juegos_MVC/Views/Shared/_AdminSidebar.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9BZG1pblNpZGViYXIuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[F:/Desarrollo de servicios web 1/proyecto/Servicios_Web_Video_juegos_MVC/Servicios_Web_Video_juegos_MVC/Views/Shared/_Footer.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9Gb290ZXIuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[F:/Desarrollo de servicios web 1/proyecto/Servicios_Web_Video_juegos_MVC/Servicios_Web_Video_juegos_MVC/Views/Shared/_Header.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9IZWFkZXIuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[F:/Desarrollo de servicios web 1/proyecto/Servicios_Web_Video_juegos_MVC/Servicios_Web_Video_juegos_MVC/Views/Shared/_Paginador.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9QYWdpbmFkb3IuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[F:/Desarrollo de servicios web 1/proyecto/Servicios_Web_Video_juegos_MVC/Servicios_Web_Video_juegos_MVC/Views/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[F:/Desarrollo de servicios web 1/proyecto/Servicios_Web_Video_juegos_MVC/Servicios_Web_Video_juegos_MVC/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[F:/Desarrollo de servicios web 1/proyecto/Servicios_Web_Video_juegos_MVC/Servicios_Web_Video_juegos_MVC/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[F:/Desarrollo de servicios web 1/proyecto/Servicios_Web_Video_juegos_MVC/Servicios_Web_Video_juegos_MVC/Views/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = b-eiesj1jq7k
